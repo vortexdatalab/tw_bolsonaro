@@ -1,4 +1,4 @@
-# Análise de sentimento de tuítes
+# Vortex Data: No Twitter, comentários negativos dispararam após reação de Bolsonaro sobre caso Marielle
 
 Código em R utilizado para matéria de 1º de novembro do Vortex Media.
 
